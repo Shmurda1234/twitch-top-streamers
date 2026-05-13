@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-12T18:25:54.406323+00:00",
+  "scraped_at": "2026-05-13T09:47:27.352954+00:00",
   "source": "twitchtracker.com",
   "channels": [
     {
@@ -13,7 +13,7 @@
       "peak_viewers": 352502,
       "hours_watched": 10200000,
       "followers_gained": 109000,
-      "total_followers": 2250000,
+      "total_followers": 2260000,
       "total_views": null
     },
     {
@@ -27,7 +27,7 @@
       "peak_viewers": 500919,
       "hours_watched": 9100000,
       "followers_gained": 215000,
-      "total_followers": 9710000,
+      "total_followers": 10100000,
       "total_views": 1950000
     },
     {
@@ -111,7 +111,7 @@
       "peak_viewers": 299903,
       "hours_watched": 5380000,
       "followers_gained": 104000,
-      "total_followers": 8460000,
+      "total_followers": 8470000,
       "total_views": null
     },
     {
@@ -125,7 +125,7 @@
       "peak_viewers": 186027,
       "hours_watched": 5300000,
       "followers_gained": 61700,
-      "total_followers": 1980000,
+      "total_followers": 1990000,
       "total_views": 32200000
     },
     {
@@ -301,7 +301,7 @@
       "name": "DOTA2_PARAGON_RU",
       "slug": "dota2_paragon_ru",
       "url": "https://twitchtracker.com/dota2_paragon_ru",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66c965f8-501a-47ba-a97f-04869f6afef5-profile_image-300x300.png",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/49e315a3-5ce5-4700-847f-ceec16c6bc80-profile_image-300x300.png",
       "avg_viewers": 19515,
       "time_streamed": 161.5,
       "peak_viewers": 263498,
@@ -517,7 +517,7 @@
       "peak_viewers": 61031,
       "hours_watched": 2300000,
       "followers_gained": 29700,
-      "total_followers": 2089999,
+      "total_followers": 2100000,
       "total_views": 16100000
     },
     {
@@ -682,7 +682,7 @@
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d750b025-e4d8-47a1-9ff2-705646d259f4-profile_image-300x300.png",
       "avg_viewers": 8972,
       "time_streamed": 223.1,
-      "peak_viewers": 16000,
+      "peak_viewers": 42235,
       "hours_watched": 2000000,
       "followers_gained": 46,
       "total_followers": 159,
@@ -867,7 +867,7 @@
       "peak_viewers": 40274,
       "hours_watched": 1700000,
       "followers_gained": 24800,
-      "total_followers": 363000,
+      "total_followers": 365000,
       "total_views": null
     },
     {
@@ -965,7 +965,7 @@
       "peak_viewers": 126995,
       "hours_watched": 1470000,
       "followers_gained": 46800,
-      "total_followers": 2930000,
+      "total_followers": 2940000,
       "total_views": 3750000
     },
     {
@@ -1287,7 +1287,7 @@
       "peak_viewers": 758101,
       "hours_watched": 1020000,
       "followers_gained": 25100,
-      "total_followers": 4910000,
+      "total_followers": 4920000,
       "total_views": 114000000
     },
     {
@@ -1301,7 +1301,7 @@
       "peak_viewers": 15028,
       "hours_watched": 1470000,
       "followers_gained": 8400,
-      "total_followers": 203000,
+      "total_followers": 205000,
       "total_views": null
     },
     {
@@ -1343,7 +1343,7 @@
       "peak_viewers": 33102,
       "hours_watched": 1260000,
       "followers_gained": 1700,
-      "total_followers": 709000,
+      "total_followers": 710000,
       "total_views": 37800000
     },
     {
@@ -1357,7 +1357,7 @@
       "peak_viewers": 28252,
       "hours_watched": 1250000,
       "followers_gained": 103000,
-      "total_followers": 2940000,
+      "total_followers": 2950000,
       "total_views": 3280000
     },
     {
@@ -1399,7 +1399,7 @@
       "peak_viewers": 97174,
       "hours_watched": 1240000,
       "followers_gained": 185000,
-      "total_followers": 2160000,
+      "total_followers": 2170000,
       "total_views": null
     }
   ]
