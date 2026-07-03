@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T10:11:32.595080+00:00",
+  "scraped_at": "2026-07-03T10:06:42.498586+00:00",
   "source": "twitchtracker.com",
   "channels": [
     {
@@ -83,7 +83,7 @@
       "peak_viewers": 299903,
       "hours_watched": 5740000,
       "followers_gained": 149000,
-      "total_followers": 8700000,
+      "total_followers": 8710000,
       "total_views": null
     },
     {
@@ -237,7 +237,7 @@
       "peak_viewers": 89325,
       "hours_watched": 2900000,
       "followers_gained": 19100,
-      "total_followers": 556000,
+      "total_followers": 557000,
       "total_views": null
     },
     {
@@ -335,7 +335,7 @@
       "peak_viewers": 758101,
       "hours_watched": 2040000,
       "followers_gained": 69800,
-      "total_followers": 5060000,
+      "total_followers": 5070000,
       "total_views": 114000000
     },
     {
@@ -419,7 +419,7 @@
       "peak_viewers": 42637,
       "hours_watched": 3540000,
       "followers_gained": 33000,
-      "total_followers": 288000,
+      "total_followers": 289000,
       "total_views": null
     },
     {
@@ -433,7 +433,7 @@
       "peak_viewers": 71271,
       "hours_watched": 2880000,
       "followers_gained": 63300,
-      "total_followers": 453000,
+      "total_followers": 455000,
       "total_views": null
     },
     {
@@ -909,7 +909,7 @@
       "peak_viewers": 233463,
       "hours_watched": 702000,
       "followers_gained": 68800,
-      "total_followers": 2340000,
+      "total_followers": 2350000,
       "total_views": null
     },
     {
@@ -984,10 +984,10 @@
     },
     {
       "rank": 71,
-      "name": "DOTA2_WINLINE_RU",
-      "slug": "dota2_winline_ru",
-      "url": "https://twitchtracker.com/dota2_winline_ru",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b85ddb98-20ae-42f3-b457-f83d9511064f-profile_image-300x300.png",
+      "name": "DOTA2_PARAGON_RU",
+      "slug": "dota2_paragon_ru",
+      "url": "https://twitchtracker.com/dota2_paragon_ru",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png",
       "avg_viewers": 10689,
       "time_streamed": 184.9,
       "peak_viewers": 263498,
@@ -1091,7 +1091,7 @@
       "peak_viewers": 34314,
       "hours_watched": 1530000,
       "followers_gained": 10500,
-      "total_followers": 1090000,
+      "total_followers": 1100000,
       "total_views": 70700000
     },
     {
@@ -1231,7 +1231,7 @@
       "peak_viewers": 28252,
       "hours_watched": 1300000,
       "followers_gained": 140000,
-      "total_followers": 3150000,
+      "total_followers": 3180000,
       "total_views": 3280000
     },
     {
