@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-04T09:24:34.091502+00:00",
+  "scraped_at": "2026-07-05T09:43:26.299199+00:00",
   "source": "twitchtracker.com",
   "channels": [
     {
@@ -69,7 +69,7 @@
       "peak_viewers": 352502,
       "hours_watched": 8380000,
       "followers_gained": 67000,
-      "total_followers": 2370000,
+      "total_followers": 2380000,
       "total_views": null
     },
     {
@@ -405,7 +405,7 @@
       "peak_viewers": 151465,
       "hours_watched": 3530000,
       "followers_gained": 101000,
-      "total_followers": 2610000,
+      "total_followers": 2620000,
       "total_views": null
     },
     {
@@ -419,7 +419,7 @@
       "peak_viewers": 42637,
       "hours_watched": 3540000,
       "followers_gained": 33000,
-      "total_followers": 289000,
+      "total_followers": 290000,
       "total_views": null
     },
     {
@@ -433,7 +433,7 @@
       "peak_viewers": 71271,
       "hours_watched": 2880000,
       "followers_gained": 63300,
-      "total_followers": 455000,
+      "total_followers": 457000,
       "total_views": null
     },
     {
@@ -461,7 +461,7 @@
       "peak_viewers": 118191,
       "hours_watched": 2660000,
       "followers_gained": 68400,
-      "total_followers": 2310000,
+      "total_followers": 2320000,
       "total_views": null
     },
     {
@@ -511,7 +511,7 @@
       "name": "WARFRAME",
       "slug": "warframe",
       "url": "https://twitchtracker.com/warframe",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8807a881-5427-4c45-8be2-bef63a8efb7b-profile_image-300x300.png",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/865d94ba-40ab-4e82-8cb4-119c098d1f18-profile_image-300x300.png",
       "avg_viewers": 35172,
       "time_streamed": 11.8,
       "peak_viewers": 433736,
@@ -545,7 +545,7 @@
       "peak_viewers": 173566,
       "hours_watched": 1160000,
       "followers_gained": 122000,
-      "total_followers": 2480000,
+      "total_followers": 2500000,
       "total_views": 12400000
     },
     {
@@ -601,7 +601,7 @@
       "peak_viewers": 76424,
       "hours_watched": 811000,
       "followers_gained": 9700,
-      "total_followers": 685000,
+      "total_followers": 686000,
       "total_views": null
     },
     {
@@ -657,7 +657,7 @@
       "peak_viewers": 55487,
       "hours_watched": 1940000,
       "followers_gained": 17300,
-      "total_followers": 256000,
+      "total_followers": 257000,
       "total_views": null
     },
     {
@@ -909,7 +909,7 @@
       "peak_viewers": 233463,
       "hours_watched": 702000,
       "followers_gained": 68800,
-      "total_followers": 2350000,
+      "total_followers": 2360000,
       "total_views": null
     },
     {
@@ -1371,7 +1371,7 @@
       "peak_viewers": 19905,
       "hours_watched": 1390000,
       "followers_gained": 13900,
-      "total_followers": 62200,
+      "total_followers": 62100,
       "total_views": 972000
     },
     {
