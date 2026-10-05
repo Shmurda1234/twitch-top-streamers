@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-04T13:04:51.098438+00:00",
+  "scraped_at": "2026-10-05T15:39:23.823204+00:00",
   "source": "twitchtracker.com",
   "channels": [
     {
@@ -27,7 +27,7 @@
       "peak_viewers": 346836,
       "hours_watched": 9970000,
       "followers_gained": 45500,
-      "total_followers": 2480000,
+      "total_followers": 2490000,
       "total_views": 21800000
     },
     {
@@ -153,7 +153,7 @@
       "peak_viewers": 292323,
       "hours_watched": 6210000,
       "followers_gained": 7100,
-      "total_followers": 1220000,
+      "total_followers": 1230000,
       "total_views": 38400000
     },
     {
@@ -293,7 +293,7 @@
       "peak_viewers": 298362,
       "hours_watched": 3400000,
       "followers_gained": 60500,
-      "total_followers": 3070000,
+      "total_followers": 3080000,
       "total_views": 2690000
     },
     {
@@ -486,10 +486,10 @@
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c157ed0d-1623-444f-8879-77ae4555684a-profile_image-300x300.png",
       "avg_viewers": 22009,
       "time_streamed": 115.0,
-      "peak_viewers": 145627,
+      "peak_viewers": 326086,
       "hours_watched": 2530000,
       "followers_gained": 87300,
-      "total_followers": 1750000,
+      "total_followers": 1860000,
       "total_views": 29200000
     },
     {
@@ -601,7 +601,7 @@
       "peak_viewers": 120011,
       "hours_watched": 2170000,
       "followers_gained": 10100,
-      "total_followers": 3160000,
+      "total_followers": 3170000,
       "total_views": 92800000
     },
     {
@@ -685,7 +685,7 @@
       "peak_viewers": 89325,
       "hours_watched": 1590000,
       "followers_gained": 8900,
-      "total_followers": 589000,
+      "total_followers": 590000,
       "total_views": null
     },
     {
@@ -797,7 +797,7 @@
       "peak_viewers": 94165,
       "hours_watched": 1290000,
       "followers_gained": 66500,
-      "total_followers": 933000,
+      "total_followers": 941000,
       "total_views": 703000
     },
     {
@@ -1385,7 +1385,7 @@
       "peak_viewers": 24097,
       "hours_watched": 1590000,
       "followers_gained": 608,
-      "total_followers": 535000,
+      "total_followers": 536000,
       "total_views": 70400000
     },
     {
