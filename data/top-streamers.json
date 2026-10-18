@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T11:28:15.255952+00:00",
+  "scraped_at": "2026-10-18T11:58:25.214577+00:00",
   "source": "twitchtracker.com",
   "channels": [
     {
@@ -97,7 +97,7 @@
       "peak_viewers": 299903,
       "hours_watched": 5490000,
       "followers_gained": 96700,
-      "total_followers": 9130000,
+      "total_followers": 9140000,
       "total_views": null
     },
     {
@@ -153,7 +153,7 @@
       "peak_viewers": 168044,
       "hours_watched": 5490000,
       "followers_gained": 60000,
-      "total_followers": 5320000,
+      "total_followers": 5330000,
       "total_views": 44200000
     },
     {
@@ -167,7 +167,7 @@
       "peak_viewers": 322154,
       "hours_watched": 5490000,
       "followers_gained": 44600,
-      "total_followers": 2280000,
+      "total_followers": 2290000,
       "total_views": 32200000
     },
     {
@@ -223,7 +223,7 @@
       "peak_viewers": 120011,
       "hours_watched": 4800000,
       "followers_gained": 34300,
-      "total_followers": 3190000,
+      "total_followers": 3200000,
       "total_views": 92800000
     },
     {
@@ -251,7 +251,7 @@
       "peak_viewers": 89325,
       "hours_watched": 3160000,
       "followers_gained": 17900,
-      "total_followers": 597000,
+      "total_followers": 598000,
       "total_views": null
     },
     {
@@ -419,7 +419,7 @@
       "peak_viewers": 151465,
       "hours_watched": 3260000,
       "followers_gained": 68200,
-      "total_followers": 3480000,
+      "total_followers": 3490000,
       "total_views": null
     },
     {
@@ -612,10 +612,10 @@
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b79e636b-26ad-49f8-8fd1-60a6e4cf9cca-profile_image-300x300.png",
       "avg_viewers": 13734,
       "time_streamed": 179.7,
-      "peak_viewers": 72936,
+      "peak_viewers": 76348,
       "hours_watched": 2470000,
       "followers_gained": 63600,
-      "total_followers": 867000,
+      "total_followers": 873000,
       "total_views": 36500000
     },
     {
@@ -713,7 +713,7 @@
       "peak_viewers": 32477,
       "hours_watched": 2530000,
       "followers_gained": 22900,
-      "total_followers": 668000,
+      "total_followers": 670000,
       "total_views": 24500000
     },
     {
@@ -741,7 +741,7 @@
       "peak_viewers": 126995,
       "hours_watched": 1610000,
       "followers_gained": 30800,
-      "total_followers": 3210000,
+      "total_followers": 3220000,
       "total_views": 3750000
     },
     {
@@ -769,7 +769,7 @@
       "peak_viewers": 81048,
       "hours_watched": 2260000,
       "followers_gained": 39900,
-      "total_followers": 2480000,
+      "total_followers": 2490000,
       "total_views": 41100000
     },
     {
@@ -794,10 +794,10 @@
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/996d2d80-c1c4-4dd7-99dd-074c47cf7196-profile_image-300x300.png",
       "avg_viewers": 7239,
       "time_streamed": 360.5,
-      "peak_viewers": 16356,
+      "peak_viewers": 27232,
       "hours_watched": 2610000,
       "followers_gained": 30500,
-      "total_followers": 459000,
+      "total_followers": 462000,
       "total_views": 30200000
     },
     {
@@ -839,7 +839,7 @@
       "peak_viewers": 205741,
       "hours_watched": 2009999,
       "followers_gained": 22600,
-      "total_followers": 2460000,
+      "total_followers": 2470000,
       "total_views": null
     },
     {
@@ -895,7 +895,7 @@
       "peak_viewers": 55487,
       "hours_watched": 1350000,
       "followers_gained": 12400,
-      "total_followers": 275000,
+      "total_followers": 276000,
       "total_views": null
     },
     {
@@ -1063,7 +1063,7 @@
       "peak_viewers": 39081,
       "hours_watched": 1460000,
       "followers_gained": 97100,
-      "total_followers": 3760000,
+      "total_followers": 3770000,
       "total_views": 3280000
     },
     {
@@ -1077,7 +1077,7 @@
       "peak_viewers": 20977,
       "hours_watched": 2080000,
       "followers_gained": 32100,
-      "total_followers": 505000,
+      "total_followers": 506000,
       "total_views": null
     },
     {
@@ -1119,7 +1119,7 @@
       "peak_viewers": 29409,
       "hours_watched": 1880000,
       "followers_gained": 12700,
-      "total_followers": 812000,
+      "total_followers": 813000,
       "total_views": 15500000
     },
     {
@@ -1189,7 +1189,7 @@
       "peak_viewers": 31852,
       "hours_watched": 1820000,
       "followers_gained": 15300,
-      "total_followers": 738000,
+      "total_followers": 739000,
       "total_views": 9680000
     },
     {
@@ -1259,7 +1259,7 @@
       "peak_viewers": 49218,
       "hours_watched": 1550000,
       "followers_gained": 3500,
-      "total_followers": 785000,
+      "total_followers": 786000,
       "total_views": 101000000
     },
     {
@@ -1329,7 +1329,7 @@
       "peak_viewers": 46612,
       "hours_watched": 1280000,
       "followers_gained": 36900,
-      "total_followers": 2330000,
+      "total_followers": 2340000,
       "total_views": 3360000
     },
     {
